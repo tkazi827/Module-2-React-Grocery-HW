@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(27, 27, 26);
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #001818;
+}
+
+#main {
+    background-color: #9bd4d4fa;
+    display: grid;
+    margin: auto;
+    justify-content: center;
+    width: 350px;
+    padding: 25px;
+    padding-top: 0px;
+}
+
+#newItems {
+    padding: 5px;
+}
+
+#groceryList {
+    padding: 5px;
+}
+
+div#groceryList ul:hover {
+    cursor: crosshair;
+}
+
+#shoppingCart {
+    padding: 5px;
+}
